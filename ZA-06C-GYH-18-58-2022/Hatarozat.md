@@ -1,4 +1,4 @@
-# [Forrás PDF](forrasok/Határozat.pdf)
+# [Forrás PDF](Határozat.pdf)
 
 A Zala Megyei Kormányhivatal Zalaszentgróti Járási Hivatal Hatósági és Gyámügyi Osztály (a továbbiakban: Gyámhatóság) első fokú gyámhatósági jogkörében eljárva meghozta az alábbi
 
@@ -45,4 +45,4 @@ Ha törvény másképpen nem rendelkezik a keresetlevél benyújtásának a köz
 
 A közigazgatási bírósági eljárás illetékköteles, melynek összege 30.000.-Ft. A közigazgatási bírósági eljárásban a feleket a tárgyi illeték feljegyzési jog illeti meg, az eljárás illetékét az eljárás eredményétől függően a bíróság felhívására utólag kell megfizetni.
 
-# [Indoklás](ZA-06C-GYH-18-58-2022/Indoklas.md)
+# [Indoklás](Indoklas.md)
