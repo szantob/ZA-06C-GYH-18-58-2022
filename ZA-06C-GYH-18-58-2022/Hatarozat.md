@@ -1,4 +1,4 @@
-# [Forrás PDF](../forrasok/ZA-06C-GYH-18-58-2022.pdf)
+# [Forrás PDF](pdf.pdf)
 
 A Zala Megyei Kormányhivatal Zalaszentgróti Járási Hivatal Hatósági és Gyámügyi Osztály (a továbbiakban: Gyámhatóság) első fokú gyámhatósági jogkörében eljárva meghozta az alábbi
 
