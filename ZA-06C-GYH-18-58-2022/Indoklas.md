@@ -1,4 +1,4 @@
-# [Határozat](ZA-06C-GYH-18-58-2022/Hatarozat.md)
+# [Határozat](Hatarozat.md)
 
 # Indokolás
 
