@@ -1,1 +1,1 @@
-- [ZA-06C-GYH-18-58-2022](ZA-06C-GYH-18-58-2022/Hatarozat.md)
+- [ZA-06C-GYH-18-58-2022](ZA-06C-GYH-18-58-2022/Hatarozat.md) Végszámadás elfogadó határozat
