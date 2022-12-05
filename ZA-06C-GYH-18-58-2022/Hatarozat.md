@@ -45,4 +45,4 @@ Ha törvény másképpen nem rendelkezik a keresetlevél benyújtásának a köz
 
 A közigazgatási bírósági eljárás illetékköteles, melynek összege 30.000.-Ft. A közigazgatási bírósági eljárásban a feleket a tárgyi illeték feljegyzési jog illeti meg, az eljárás illetékét az eljárás eredményétől függően a bíróság felhívására utólag kell megfizetni.
 
-# [Indoklás](# [Határozat](ZA-06C-GYH-18-58-2022/Indoklas.md))
+# [Indoklás](ZA-06C-GYH-18-58-2022/Indoklas.md)
