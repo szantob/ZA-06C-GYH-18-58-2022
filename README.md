@@ -1,2 +1,2 @@
 - [ZA-06C/GYH/18-58/2022](ZA-06C-GYH-18-58-2022/Hatarozat.md) Végszámadás elfogadó határozat
-- [4-P-20-242-2022-4](4-P-20-242-2022-4/itelet.md) Bírósági írélet
+- [4.P.20.242/2022/4.](4-P-20-242-2022-4/itelet.md) Bírósági írélet
