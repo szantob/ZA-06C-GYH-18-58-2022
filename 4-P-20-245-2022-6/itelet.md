@@ -13,98 +13,39 @@ Az elsőfokú ítéleti tényállás szerint a Keszthelyi Járásbíróság a 20
 éves számadását, melynek elbírálása során a felperes hiányt állapított meg, ezért a 2020. június 15. napján kelt [ZA-01C/GYH/677-15/2020.]() számú végzésében az alperest 2019. június 5. — 2020. március 31. közötti időszakra eseti számadás benyújtására hívta fel. Az alperes az eseti számadási kötelezettségének nemn tett eleget, ezért a felperes a számadást a rendelkezésére álló adatok alapján bírálta el és a [ZA-01C/GYH/677-21/2020.]() számú határozatában megállapította, hogy 3.863.088,- Ft felhasználásával hitelt érdemlő módon nem számolt el, ezért felszólította annak 8 napon belüli megfizetésére. Ezt követően a gyámhatóság külön határozatban 2020. augusztus 14-i hatállyal megállapította, hogy az alperes jogköre nem terjed ki a gondnokolt vagyonának kezelésére, vagyoni ügyekben a képviseletére, egyúttal arra eseti gondnokot rendelt ki. Az alperesnek a [ZA-O01C/GYH/677-21/2020.]() számú gyámhatósági határozat felülvizsgálata iránti keresetét a Veszprémi Törvényszék a 2021. szeptember 6. napján hozott [5.K.700.995/2020/22.]() számú ítéletével elutasította.
 
 ## (3)
-E tényállás alapján az elsőfokú bíróság a felperes 3.863.088,- Ft számadási hiány megfizetésére
-irányuló, a Ptk. 2:37. § (1) és (5) bekezdéseire, valamint a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdésére
-alapított keresetét megalapozottnak találta. Indokai szerint a felperes 21. alszámú
-határozatának jogszerűsége a jelen perben nem volt vitássá tehető, a felülvizsgálata a
-közigazgatási perben megtörtént, a közigazgatási perben eljáró bíróság jogerős határozata a
-perbíróságot kötötte. Alaptalanul hivatkozott az alperes arra, hogy a jelen per megindítása előtt
-a felperesnek a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdése alapján számadásra kötelezés iránti pert kellett
-volna indítania. A 21. alszámú határozatban foglalt hiányt a felperes éppen az egyszerűsített
-éves számadás elbírálása során állapította meg, a határozata jogszerű volt, így a [Gyer. 158/B.
-§ (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az
-ellenkérelmében nem vitatta a hiány összegét. Mindezek alapján azt kellett vizsgálni, hogy
-2019. július 5. — 2020. március 31. között a gondnokolt érdekében felmerült-e olyan kiadás,
-amely a megállapított 3.863.088,- Ft hiánnyal szemben clszámolható volt. Nem vezethetett
-eredményre az alperes azon hivatkozása, hogy a megbízása alapján a gondnokoltra az
-intézményi elhelyezéséig 6-7 hónapon keresztül nem számlaképes személyek vigyáztak napi
-15 órában 1.500,-2.000,-Ft/óradíj ellenében, amellyel 3.412.000,- Ft kiadása merül fel. Az
-összeg kifizetésének bizonyítására ugyanis a személyes előadása és a házi gondozást nyújtó
-szolgáltatók internetről letöltött árjegyzékének csatolása nem volt alkalmas. Alaptalanul
-hivatkozott arra is, hogy egyszerűsített számadási kötelezettsége mellett nem kellett
-bizonylattal elszámolnia. A [Gyer. 159. § (3)](../jogszabalyok/GYER-XXII.md#159--3) bekezdése értelmében ugyanis bizonylat nélkül
-csak az élelmezéssel és háztartással kapcsolatos költségek számolhatók el, a Ptk. 2:37. § (5)
-bekezdése értelmében pedig a kiadások bizonylatait az egyszerűsített számadásra kötelezett
-gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a [Gyer. 158/B. §
-(8)](../jogszabalyok/GYER-XXII.md#158b--8) bekezdése szerint az összegszerűségében nem vitatott hiány megfizetésére kötelezte.
+E tényállás alapján az elsőfokú bíróság a felperes 3.863.088,- Ft számadási hiány megfizetésére irányuló, a Ptk. 2:37. § (1) és (5) bekezdéseire, valamint a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdésére alapított keresetét megalapozottnak találta. Indokai szerint a felperes 21. alszámú
+határozatának jogszerűsége a jelen perben nem volt vitássá tehető, a felülvizsgálata a közigazgatási perben megtörtént, a közigazgatási perben eljáró bíróság jogerős határozata a perbíróságot kötötte. Alaptalanul hivatkozott az alperes arra, hogy a jelen per megindítása előtt a felperesnek a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdése alapján számadásra kötelezés iránti pert kellett volna indítania. A 21. alszámú határozatban foglalt hiányt a felperes éppen az egyszerűsített éves számadás elbírálása során állapította meg, a határozata jogszerű volt, így a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az ellenkérelmében nem vitatta a hiány összegét. Mindezek alapján azt kellett vizsgálni, hogy 2019. július 5. — 2020. március 31. között a gondnokolt érdekében felmerült-e olyan kiadás, amely a megállapított 3.863.088,- Ft hiánnyal szemben clszámolható volt. Nem vezethetett eredményre az alperes azon hivatkozása, hogy a megbízása alapján a gondnokoltra az intézményi elhelyezéséig 6-7 hónapon keresztül nem számlaképes személyek vigyáztak napi 15 órában 1.500,-2.000,-Ft/óradíj ellenében, amellyel 3.412.000,- Ft kiadása merül fel. Az összeg kifizetésének bizonyítására ugyanis a személyes előadása és a házi gondozást nyújtó szolgáltatók internetről letöltött árjegyzékének csatolása nem volt alkalmas. Alaptalanul hivatkozott arra is, hogy egyszerűsített számadási kötelezettsége mellett nem kellett bizonylattal elszámolnia. A [Gyer. 159. § (3)](../jogszabalyok/GYER-XXII.md#159--3) bekezdése értelmében ugyanis bizonylat nélkül csak az élelmezéssel és háztartással kapcsolatos költségek számolhatók el, a Ptk. 2:37. § (5) bekezdése értelmében pedig a kiadások bizonylatait az egyszerűsített számadásra kötelezett gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a [Gyer. 158/B. § (8)](../jogszabalyok/GYER-XXII.md#158b--8) bekezdése szerint az összegszerűségében nem vitatott hiány megfizetésére kötelezte.
 
 ## (4)
-Az alperes a fellebbezésében elsődlegesen az elsőfokú ítélet megváltoztatását, a kereset
-elutasítását; másodlagosan az elsőfokú ítélet hatályon kívül helyezését, és az elsőfokú bíróság
-új eljárásra és új határozat hozatalára utasítását kérte.
+Az alperes a fellebbezésében elsődlegesen az elsőfokú ítélet megváltoztatását, a kereset elutasítását; másodlagosan az elsőfokú ítélet hatályon kívül helyezését, és az elsőfokú bíróság új eljárásra és új határozat hozatalára utasítását kérte.
 
 ## (5)
-Egyfelől eljárási okból tartotta jogszabálysértőnek az elsőfokú ítéletet. Érvelése szerint az
-elsőfokú bíróság megsértette a Pp. 342. § (1) bekezdését, a döntése túlterjedt a kereseti
-kérelmen, a felperes ugyanis az eseti számadás nem teljesítése miatt követelt tőle hiányt, de a
-keresetét nem alapította a Ptk. 2: 37. § (3) bekezdésére.
+Egyfelől eljárási okból tartotta jogszabálysértőnek az elsőfokú ítéletet. Érvelése szerint az elsőfokú bíróság megsértette a Pp. 342. § (1) bekezdését, a döntése túlterjedt a kereseti kérelmen, a felperes ugyanis az eseti számadás nem teljesítése miatt követelt tőle hiányt, de a keresetét nem alapította a Ptk. 2: 37. § (3) bekezdésére.
 
 ## (6)
-A hiány megfizetésére felhívó 21. alszámú gyámhatósági határozat nem tartalmazta a hiány
-. mibenlétét", arra a felperes képviselője is kitérő választ adott az elsőfokú eljárásban. A kereset
-nem volt a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdésének megfeleltethető, számadási hiány megfizetése iránt
-a felperes nem indíthatott pert, mert az eseti számadási kötelezettségének nem tett eleget, ez
-pedig a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdésén alapuló számadásra kötelezés iránti igényt alapozhatta
-volna meg. A jelen pert tehát számadásra kötelezés iránti pernek, mint előzetes eljárásnak
-kellett volna megelőzni, így a jelen eljárás megszüntetésének lett volna helye.
+A hiány megfizetésére felhívó 21. alszámú gyámhatósági határozat nem tartalmazta a hiány mibenlétét, arra a felperes képviselője is kitérő választ adott az elsőfokú eljárásban. A kereset nem volt a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdésének megfeleltethető, számadási hiány megfizetése iránt a felperes nem indíthatott pert, mert az eseti számadási kötelezettségének nem tett eleget, ez pedig a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdésén alapuló számadásra kötelezés iránti igényt alapozhatta volna meg. A jelen pert tehát számadásra kötelezés iránti pernek, mint előzetes eljárásnak kellett volna megelőzni, így a jelen eljárás megszüntetésének lett volna helye.
 
 ## (7)
-Másfelől érdemében sem tartotta megalapozottnak az elsőfokú ítéletet. Álláspontja szerint a
-felperes saját eljárásában nem közölte, hogy hiányt észlelt, hanem maradványt állapított meg.
-Azon határozatában sem szerepelt hiány, amelyben az eseti számadásra felhívta, az eseti
-számadást az egyszerűsített éves számadás helyett, tételes elszámolás érdekében kérte. Ez is
-azt mutatja, hogy számadásra kötelezése iránt előzetesen pert kellett volna indítani.
+Másfelől érdemében sem tartotta megalapozottnak az elsőfokú ítéletet. Álláspontja szerint a felperes saját eljárásában nem közölte, hogy hiányt észlelt, hanem maradványt állapított meg. Azon határozatában sem szerepelt hiány, amelyben az eseti számadásra felhívta, az eseti számadást az egyszerűsített éves számadás helyett, tételes elszámolás érdekében kérte. Ez is azt mutatja, hogy számadásra kötelezése iránt előzetesen pert kellett volna indítani.
 
 ## (8)
-A Keszthelyi Járásbíróság a [4.P.20.242/2022/4.]() sorszámú ítéletében elutasította a felperesnek
-az alpercsi végszámadással szemben előterjesztett keresetét, ezzel a végszámadás helyességét
-elfogadta. A végszámadásban hiány nem mutatkozott és mivel az a teljes gondnoki időszakra
-vonatkozik, hiány a perbeli időszakban sem lehet.
+A Keszthelyi Járásbíróság a [4.P.20.242/2022/4.]() sorszámú ítéletében elutasította a felperesnek az alpercsi végszámadással szemben előterjesztett keresetét, ezzel a végszámadás helyességét elfogadta. A végszámadásban hiány nem mutatkozott és mivel az a teljes gondnoki időszakra vonatkozik, hiány a perbeli időszakban sem lehet.
 
 ## (9)
-Tévedett az elsőfokú bíróság abban, hogy a közigazgatási perben hozott határozat jogereje
-kizárja a jelen perben a hiány létének vizsgálatát. Állította, hogy a gondnokolt vagyonában
-hiány nincs: a folyószámlára a nyugdíja érkezett, azt használta fel, a gondnokoltra kötötte. Ez
-pedig igazolnia nem kellett, mert egyszerűsített számadási kötelezettsége körében nem volt
-köteles bizonylatokat csatolni.
+Tévedett az elsőfokú bíróság abban, hogy a közigazgatási perben hozott határozat jogereje kizárja a jelen perben a hiány létének vizsgálatát. Állította, hogy a gondnokolt vagyonában hiány nincs: a folyószámlára a nyugdíja érkezett, azt használta fel, a gondnokoltra kötötte. Ez pedig igazolnia nem kellett, mert egyszerűsített számadási kötelezettsége körében nem volt köteles bizonylatokat csatolni.
 
 ## (10)
-A felperes a fellebbezési ellenkérelmében az elsőfokú ítélet helybenhagyását kérte.
-A fellebbezés megalapozatlan.
+A felperes a fellebbezési ellenkérelmében az elsőfokú ítélet helybenhagyását kérte. A fellebbezés megalapozatlan.
 
 ## (11)
-A másodfokú bíróság a Pp. 370. § (1) bekezdésének megfelelően a fellebbezési kérelem és a
-fellebbezési ellenkérelem korlátai között gyakcrolta a felülbírálati jogkörét. A jogi képviselő
-nélkül eljáró alperes fellebbezési érvei az elsőfokú ítélet eljárásjogi és anyagi jogi
-felülbírálatára is irányultak. Ezért a másodfokú bíróság egyfelől a Pp. 369. § (1) bekezdése
-szerinti felülbírálati jogkörben járt el és a Pp. 176. § (1) bekezdés c) pontjára utalással a Pp.
-240. §. § (1) bekezdés a) pontja és a Pp. 342. § (1) bekezdése megsértését vizsgálta. Másfelől
-a Pp. 369. § (3) bekezdés a) és c) pontjai szerinti felülbírálati jogkört gyakorolta, melyben a
-[Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdése megsértését vizsgálta, mindkét felülbírálat során a fellebbezési
-érvelésre szorítkozva.
+A másodfokú bíróság a Pp. 370. § (1) bekezdésének megfelelően a fellebbezési kérelem és a fellebbezési ellenkérelem korlátai között gyakcrolta a felülbírálati jogkörét. A jogi képviselő nélkül eljáró alperes fellebbezési érvei az elsőfokú ítélet eljárásjogi és anyagi jogi felülbírálatára is irányultak. Ezért a másodfokú bíróság egyfelől a Pp. 369. § (1) bekezdése szerinti felülbírálati jogkörben járt el és a Pp. 176. § (1) bekezdés c) pontjára utalással a Pp. 240. §. § (1) bekezdés a) pontja és a Pp. 342. § (1) bekezdése megsértését vizsgálta. Másfelől a Pp. 369. § (3) bekezdés a) és c) pontjai szerinti felülbírálati jogkört gyakorolta, melyben a
+[Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdése megsértését vizsgálta, mindkét felülbírálat során a fellebbezési érvelésre szorítkozva.
 
 ## (12)
 Az alperes üggyel kapcsolatos álláspontja az irányadó jogszabályok téves értelmezésén alapul.
 
 ## (13)
-A gondnok részére engedélyezett egyszerűsített számadás nem azt jelenti, hogy a gondnok a
-gondnokolt vagyonát szabadon felhasználhatja. A [Gyer. 159/A. § (2)](../jogszabalyok/GYER-XXII.md#159a--2) bekezdése értelmében
-csupán azt jelenti, hogy a számadásához nem köteles bizonylatokat csatolni. Ha azonban a
-számadás elbírálása során a vagyon jogszerű felhasználásával kapcsolatban kétség merül fel, a
-gyámhatóság felhívására köteles igazolni a gondnokolt érdekében történő felhasználást, a
-bizonylatok bemutatásával vagy egyéb módon. Ez pedig — ahogy a közigazgatási perben eljárt
-bíróság már kifejtette — történhet a [Gyer. 158. § (6)](../jogszabalyok/GYER-XXII.md#158--6) bekezdése szerinti eseti számadásra történő
-felhívással is.
+A gondnok részére engedélyezett egyszerűsített számadás nem azt jelenti, hogy a gondnok a gondnokolt vagyonát szabadon felhasználhatja. A [Gyer. 159/A. § (2)](../jogszabalyok/GYER-XXII.md#159a--2) bekezdése értelmében csupán azt jelenti, hogy a számadásához nem köteles bizonylatokat csatolni. Ha azonban a számadás elbírálása során a vagyon jogszerű felhasználásával kapcsolatban kétség merül fel, a gyámhatóság felhívására köteles igazolni a gondnokolt érdekében történő felhasználást, a bizonylatok bemutatásával vagy egyéb módon. Ez pedig — ahogy a közigazgatási perben eljárt bíróság már kifejtette — történhet a [Gyer. 158. § (6)](../jogszabalyok/GYER-XXII.md#158--6) bekezdése szerinti eseti számadásra történő felhívással is.
 
 ## (14)
 Az eseti számadás lehet a gondnok önálló számadási kötelezettsége, például akkor, amikor a
@@ -180,12 +121,10 @@ közigazgatási határozat még nincs, nem is lehet, hiszen a [Gyer. 158/A. § (
 értelmében a végszámadás a már korábban benyújtott számadásokon alapul.
 
 ## (20)
-A kifejtettek alapján a másodfokú bíróság az elsőfokú bíróság ítéletét a Pp. 383. § (2)
-bekezdésének megfelelően helybenhagyta.
+A kifejtettek alapján a másodfokú bíróság az elsőfokú bíróság ítéletét a Pp. 383. § (2) bekezdésének megfelelően helybenhagyta.
 
 ## (21)
 A fellebbezés eredményre nem vezetett, ezért a Pp. 364. §-a és 83. § (1) bekezdése értelmében
 
 ## (22)
-a megfizetett fellebbezési illeték az alperes terhén marad. A felperes perköltséget nem számított
-fel, így arról a másodfokú bíróságnak rendelkeznie nem kellett.
+a megfizetett fellebbezési illeték az alperes terhén marad. A felperes perköltséget nem számított fel, így arról a másodfokú bíróságnak rendelkeznie nem kellett.
