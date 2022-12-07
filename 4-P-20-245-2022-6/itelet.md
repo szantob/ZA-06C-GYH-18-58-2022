@@ -82,20 +82,24 @@ Azon határozatában sem szerepelt hiány, amelyben az eseti számadásra felhí
 számadást az egyszerűsített éves számadás helyett, tételes elszámolás érdekében kérte. Ez is
 azt mutatja, hogy számadásra kötelezése iránt előzetesen pert kellett volna indítani.
 
+## (8)
 A Keszthelyi Járásbíróság a 4.P.20.242/2022/4. sorszámú ítéletében elutasította a felperesnek
 az alpercsi végszámadással szemben előterjesztett keresetét, ezzel a végszámadás helyességét
 elfogadta. A végszámadásban hiány nem mutatkozott és mivel az a teljes gondnoki időszakra
 vonatkozik, hiány a perbeli időszakban sem lehet.
 
+## (9)
 Tévedett az elsőfokú bíróság abban, hogy a közigazgatási perben hozott határozat jogereje
 kizárja a jelen perben a hiány létének vizsgálatát. Állította, hogy a gondnokolt vagyonában
 hiány nincs: a folyószámlára a nyugdíja érkezett, azt használta fel, a gondnokoltra kötötte. Ez
 pedig igazolnia nem kellett, mert egyszerűsített számadási kötelezettsége körében nem volt
 köteles bizonylatokat csatolni.
 
+## (10)
 A felperes a fellebbezési ellenkérelmében az elsőfokú ítélet helybenhagyását kérte.
 A fellebbezés megalapozatlan.
 
+## (11)
 A másodfokú bíróság a Pp. 370. § (1) bekezdésének megfelelően a fellebbezési kérelem és a
 fellebbezési ellenkérelem korlátai között gyakcrolta a felülbírálati jogkörét. A jogi képviselő
 nélkül eljáró alperes fellebbezési érvei az elsőfokú ítélet eljárásjogi és anyagi jogi
@@ -106,8 +110,10 @@ a Pp. 369. § (3) bekezdés a) és c) pontjai szerinti felülbírálati jogkört
 Gyer. 158/B. § (3) bekezdése megsértését vizsgálta, mindkét felülbírálat során a fellebbezési
 érvelésre szorítkozva.
 
+## (12)
 Az alperes üggyel kapcsolatos álláspontja az irányadó jogszabályok téves értelmezésén alapul.
 
+## (13)
 A gondnok részére engedélyezett egyszerűsített számadás nem azt jelenti, hogy a gondnok a
 gondnokolt vagyonát szabadon felhasználhatja. A Gyer. 159/A. § (2) bekezdése értelmében
 csupán azt jelenti, hogy a számadásához nem köteles bizonylatokat csatolni. Ha azonban a
@@ -117,18 +123,13 @@ bizonylatok bemutatásával vagy egyéb módon. Ez pedig — ahogy a közigazgat
 bíróság már kifejtette — történhet a Gyer. 158. § (6) bekezdése szerinti eseti számadásra történő
 felhívással is.
 
+## (14)
 Az eseti számadás lehet a gondnok önálló számadási kötelezettsége, például akkor, amikor a
 gyámhatóság indokolt esetben az éves számadási kötelezettségétől függetlenül hívja fel eseti
 számadásra vagy annak a gondnoknak a számadási kötelezettsége, aki egyébként éves
 számadásra nem köteles. Sor kerülhet azonban eseti számadásra az éves számadás elbírálása
 során is — mint jelen esetben —, amikor tulajdonképpen az évcs számadás helyességének
 igazolására irányul. A perbeli esetben a gyámhatóság az alperest a benyújtott éves számadása
-[18]
-
-[19]
-
-2.Pf.20.518/2022/6. szám
-
 elbírálása során hívta fel eseti számadásra, mert a gondnokolt vagyonában nagy összegű
 felhasználás mutatkozott. Az eseti számadás benyújtása az alperes részéről arra szolgált volna,
 hogy a felhasználás jogszerűségét igazolja, amit a gyámhatósági eljárásban bizonylatokkal
@@ -143,9 +144,11 @@ perben hozott döntés j jogerősen elbírálta. A jelen per a felek között eg
 már csak a hiány mértéke volt vitatható. Így az alperesnek még az elsőfokú eljárásban is volt
 lehetősége a jogszerű vagyonfelhasználást igazolni.
 
+## (15)
 A fentiek előrebocsátása után a másodfokú bíróság álláspontja az egyes fellebbezési érveket
 illetően az alábbi:
 
+## (16)
 Helyesen fejtette ki az elsőfokú bíróság az ítélete [20] bekezdésében, hogy a felperes 21.
 alszámú határozatának jogszerűségét a közigazgatási perben eljáró bíróság már elbírálta. E
 perben hozott ítélet már állást foglalt arról, hogy a felperes jogszerűen járt el, amikor az eseti
@@ -155,6 +158,7 @@ kötelezés, hanem számadási hiány megfizetése, azaz a követelés érvénye
 indítani, az elsőfokú bíróság tehát a Pp. 191. § (2) bekezdése szerint eljárva helyesen döntött
 az eljárás megszüntetése iránti kérelem elutasításáról.
 
+## (17)
 Nem sértette meg az elsőfokú bíróság a Pp. 342. § (1) bekezdését sem. Mindenekelőtt
 hangsúlyozandó, hogy a felperes jogi képviselő nélkül járt el, így a Pp. 247. § (1) bekezdése
 értelmében a jogalap megjelölésére nem is volt köteles. Az általa előadott tényekből
@@ -162,6 +166,7 @@ egyértelműen beazonosítható volt, hogy számadási hiány megfizetése irán
 az érvényesíteni kívánt jog tehát a Gyer. 158/B. § (3) bekezdése szerinti volt, mélyet a
 keresetben meg is jelölt.
 
+## (18)
 Tévesen értelmezte az alperes az elsőfokú ítélet [21] bekezdése indokait is. Az elsőfokú bíróság
 nem azt fejtette ki, hogy a hiány léte a jelen polgári perben nem vizsgálható, hanem azt, hogy
 a felperes 21. alszámú határozata jogszerűsége vizsgálatába nem bocsátkozhatott. A 2021.
@@ -178,10 +183,8 @@ lehetőségét önmagában nem zárta ki az, hogy egyes kiadásokról számlát 
 azonban az őt terhelő bizonyításnak nem tett eleget, a gondnokolt vagyonából felhasznált
 összeget hiánynak kellett tekinteni és annak megfizetésére jogszerűen kötelezte az elsőfokú
 bíróság.
-201
 
-2.Pf.20.518/2022/6. szám
-
+## (19)
 Alaptalanul hivatkozott az alperes a végszámadás elfogadására is. A Keszthelyi Járásbíróság a
 4.P.20.242/2022/4. sorszámú ítéletében nem a végszámadás helyességéről, hanem a
 végszámadási kötelezettség módjáról döntött, kifejezetten azt állapította meg, hogy
@@ -193,15 +196,13 @@ visszavonásáról született hatósági döntést. A végszámadás elfogadása
 közigazgatási határozat még nincs, nem is lehet, hiszen a Gyer. 158/A. § (1) bekezdése
 értelmében a végszámadás a már korábban benyújtott számadásokon alapul.
 
+## (20)
 A kifejtettek alapján a másodfokú bíróság az elsőfokú bíróság ítéletét a Pp. 383. § (2)
 bekezdésének megfelelően helybenhagyta.
 
+## (21)
 A fellebbezés eredményre nem vezetett, ezért a Pp. 364. §-a és 83. § (1) bekezdése értelmében
 
+## (22)
 a megfizetett fellebbezési illeték az alperes terhén marad. A felperes perköltséget nem számított
 fel, így arról a másodfokú bíróságnak rendelkeznie nem kellett.
-
-Zalaegerszeg, 2022. november 22.
-
-Dr. Bartalné dr. Mentes Judit s.k. Dr. Mihályi Mónika s.k. Dr. Vajda Andrea s.k.
-a tanács elnöke előadó bíró bíró
