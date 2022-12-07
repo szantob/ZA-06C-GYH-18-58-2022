@@ -41,19 +41,21 @@
 #### b) indokolt esetben beszerzi a cselekvőképességében a vagyoni ügyeit érintően korlátozott nagykorú személy, és - ha nem ő a vagyon kezelője - a törvényes képviselő, a hozzátartozók, valamint a fogyatékosok vagy pszichiátriai betegek otthona vezetőjének a számadásra vonatkozó észrevételeit, és
 #### c) indokolt esetben meghallgatja a korlátozottan cselekvőképes gyermeket a számadással kapcsolatos véleménye megismerése céljából.
 
-(1a) *  Az (1) bekezdés b) pontja szerinti észrevételeket a gyámhivatal felhívásától számított tizenöt napon belül lehet megtenni.
+### (1a) Az (1) bekezdés b) pontja szerinti észrevételeket a gyámhivatal felhívásától számított tizenöt napon belül lehet megtenni.
 
-(2) Ha a számadás helyes, a gyámhivatal azt elfogadja, és végszámadás esetén a számadásra kötelezettet a vagyonkezelés alól felmenti. Rendelkezni kell egyúttal a maradványösszeg felhasználásáról, illetve annak betétben történő elhelyezéséről is.
+### (2) Ha a számadás helyes, a gyámhivatal azt elfogadja, és végszámadás esetén a számadásra kötelezettet a vagyonkezelés alól felmenti. Rendelkezni kell egyúttal a maradványösszeg felhasználásáról, illetve annak betétben történő elhelyezéséről is.
 
-(3) *  Ha a számadás alapján a gyámhivatal hiányt vagy indokolatlan kiadást, illetve a nem megfelelő gazdálkodás eredményeképpen kárt állapít meg, a számadásra kötelezett személyt felhívja, hogy az okozott kár összegét a felhívás kézhezvételét követő nyolc napon belül a betétbe fizesse be. Ha a számadásra köteles az összeget vagy annak egy részét vitatja, a gyámhivatal a követelés érvényesítése iránt polgári pert indít.
+### (3) Ha a számadás alapján a gyámhivatal hiányt vagy indokolatlan kiadást, illetve a nem megfelelő gazdálkodás eredményeképpen kárt állapít meg, a számadásra kötelezett személyt felhívja, hogy az okozott kár összegét a felhívás kézhezvételét követő nyolc napon belül a betétbe fizesse be. Ha a számadásra köteles az összeget vagy annak egy részét vitatja, a gyámhivatal a követelés érvényesítése iránt polgári pert indít.
 
-158/C. § *  (1) *  Ha a számadásra kötelezett a kötelezettségének nem vagy csak részben tesz eleget, a gyámhivatal ellene számadásra kötelezés iránt polgári pert indít. A gyámhivatal a kereset benyújtásával egyidejűleg a Ptk. 4:159. § e) pontja alapján a szülőtől a vagyonkezelés és a vagyoni ügyekben való képviselet jogát egyes vagyoni ügyekre vagy az ügyek meghatározott csoportjára nézve korlátozhatja vagy megvonhatja, a kiskorú részére eseti gyámot, a gondnokolt részére eseti gondnokot rendel, illetve a gyámot, gondnokot tisztségéből elmozdítja.
+## 158/C. § 
+### (1) Ha a számadásra kötelezett a kötelezettségének nem vagy csak részben tesz eleget, a gyámhivatal ellene számadásra kötelezés iránt polgári pert indít. A gyámhivatal a kereset benyújtásával egyidejűleg a Ptk. 4:159. § e) pontja alapján a szülőtől a vagyonkezelés és a vagyoni ügyekben való képviselet jogát egyes vagyoni ügyekre vagy az ügyek meghatározott csoportjára nézve korlátozhatja vagy megvonhatja, a kiskorú részére eseti gyámot, a gondnokolt részére eseti gondnokot rendel, illetve a gyámot, gondnokot tisztségéből elmozdítja.
 
-(2) * 
+### (2)
 
-(3) A számadásra kötelezett azt a kárt, melyet a gyermeknek, gondnokoltnak jogellenesen okozott, a Ptk.-nak a kártérítésre vonatkozó szabályai szerint köteles megtéríteni.
+### (3) A számadásra kötelezett azt a kárt, melyet a gyermeknek, gondnokoltnak jogellenesen okozott, a Ptk.-nak a kártérítésre vonatkozó szabályai szerint köteles megtéríteni.
 
 A gyám számadására és a jelentésben foglalt beszámolóra vonatkozó külön szabályok * 
+
 159. § *  (1) *  A családbafogadó gyám nem köteles éves számadásra, ha a gyámoltnak nincsen vagyona és bevételeinek havi összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét. Nem köteles éves számadásra a gyermekvédelmi gyám, ha a gyámolt nem rendelkezik vagyonnal és utána kizárólag családtámogatási ellátást folyósítanak.
 
 (1a) *  A helyettes gyermekvédelmi gyám - a gyermekvédelmi gyám felé fennálló, Gyvt. 91. § (1) bekezdése szerinti tájékoztatási kötelezettségén kívül - a gyámhivatal felhívására eseti számadásra és rendkívüli jelentés megtételére köteles.
