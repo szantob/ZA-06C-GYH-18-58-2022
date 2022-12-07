@@ -31,15 +31,15 @@ felülvizsgálata iránti keresetét a Veszprémi Törvényszék a 2021. szeptem
 
 ## (3)
 E tényállás alapján az elsőfokú bíróság a felperes 3.863.088,- Ft számadási hiány megfizetésére
-irányuló, a Ptk. 2:37. § (1) és (5) bekezdéseire, valamint a Gyer. 158/B. § (3) bekezdésére
+irányuló, a Ptk. 2:37. § (1) és (5) bekezdéseire, valamint a [Gyer. 158/B. § (3)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdésére
 alapított keresetét megalapozottnak találta. Indokai szerint a felperes 21. alszámú
 határozatának jogszerűsége a jelen perben nem volt vitássá tehető, a felülvizsgálata a
 közigazgatási perben megtörtént, a közigazgatási perben eljáró bíróság jogerős határozata a
 perbíróságot kötötte. Alaptalanul hivatkozott az alperes arra, hogy a jelen per megindítása előtt
-a felperesnek a Gyer. 158/C. § (1) bekezdése alapján számadásra kötelezés iránti pert kellett
+a felperesnek a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdése alapján számadásra kötelezés iránti pert kellett
 volna indítania. A 21. alszámú határozatban foglalt hiányt a felperes éppen az egyszerűsített
-éves számadás elbírálása során állapította meg, a határozata jogszerű volt, így a Gyer. 158/B.
-§ 6) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az
+éves számadás elbírálása során állapította meg, a határozata jogszerű volt, így a [Gyer. 158/B.
+§ 6)](../jogszabalyok/GYER-XXII.md#158b--6) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az
 ellenkérelmében nem vitatta a hiány összegét. Mindezek alapján azt kellett vizsgálni, hogy
 2019. július 5. — 2020. március 31. között a gondnokolt érdekében felmerült-e olyan kiadás,
 amely a megállapított 3.863.088,- Ft hiánnyal szemben clszámolható volt. Nem vezethetett
@@ -52,8 +52,8 @@ hivatkozott arra is, hogy egyszerűsített számadási kötelezettsége mellett 
 bizonylattal elszámolnia. A [Gyer. 159. § (3)](../jogszabalyok/GYER-XXII.md#159--3) bekezdése értelmében ugyanis bizonylat nélkül
 csak az élelmezéssel és háztartással kapcsolatos költségek számolhatók el, a Ptk. 2:37. § (5)
 bekezdése értelmében pedig a kiadások bizonylatait az egyszerűsített számadásra kötelezett
-gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a Gyer. 158/B. §
-(8) bekezdése szerint az összegszerűségében nem vitatott hiány megfizetésére kötelezte.
+gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a [Gyer. 158/B. §
+(8)](../jogszabalyok/GYER-XXII.md#158b--8) bekezdése szerint az összegszerűségében nem vitatott hiány megfizetésére kötelezte.
 
 ## (4)
 Az alperes a fellebbezésében elsődlegesen az elsőfokú ítélet megváltoztatását, a kereset
