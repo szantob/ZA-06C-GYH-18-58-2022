@@ -39,7 +39,7 @@ perbíróságot kötötte. Alaptalanul hivatkozott az alperes arra, hogy a jelen
 a felperesnek a [Gyer. 158/C. § (1)](../jogszabalyok/GYER-XXII.md#158c--1) bekezdése alapján számadásra kötelezés iránti pert kellett
 volna indítania. A 21. alszámú határozatban foglalt hiányt a felperes éppen az egyszerűsített
 éves számadás elbírálása során állapította meg, a határozata jogszerű volt, így a [Gyer. 158/B.
-§ 6)](../jogszabalyok/GYER-XXII.md#158b--6) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az
+§ 6)](../jogszabalyok/GYER-XXII.md#158b--3) bekezdése értelmében a jelen perben már csak annak összege volt vitatható. A felperes az
 ellenkérelmében nem vitatta a hiány összegét. Mindezek alapján azt kellett vizsgálni, hogy
 2019. július 5. — 2020. március 31. között a gondnokolt érdekében felmerült-e olyan kiadás,
 amely a megállapított 3.863.088,- Ft hiánnyal szemben clszámolható volt. Nem vezethetett
