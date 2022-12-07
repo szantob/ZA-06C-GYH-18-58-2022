@@ -61,7 +61,7 @@ Ha a számadásra kötelezett a kötelezettségének nem vagy csak részben tesz
 ### 158/C. § (3) 
 A számadásra kötelezett azt a kárt, melyet a gyermeknek, gondnokoltnak jogellenesen okozott, a Ptk.-nak a kártérítésre vonatkozó szabályai szerint köteles megtéríteni.
 
-A gyám számadására és a jelentésben foglalt beszámolóra vonatkozó külön szabályok
+# A gyám számadására és a jelentésben foglalt beszámolóra vonatkozó külön szabályok
 
 ## 159. §
 ### 159. § (1) 
@@ -81,7 +81,7 @@ intézkedik a gyámnak az egyszerűsített számadás helyett éves, rendes szá
 #### 59. § (5) b) 
 felhívja a gyámot arra, hogy kezdeményezze a gyermek érdekében a szükségleteihez illeszkedő és elérhető szolgáltatások igénybevételét.
 
-A gondnoki számadásra és a jelentésben foglalt beszámolóra vonatkozó külön szabályok
+# A gondnoki számadásra és a jelentésben foglalt beszámolóra vonatkozó külön szabályok
 
 ## 159/A. §
 ### 159/A. § (1) 
