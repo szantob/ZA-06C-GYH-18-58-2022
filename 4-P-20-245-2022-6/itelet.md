@@ -1,26 +1,3 @@
-Az eljáró bíróság: Zalaegerszegi Törvényszék mint másodfokú bíróság ——
-
-Az ügy száma: 2.Pf.20.518/2022/6.
-
-A felperes: Zala Megyei Kormányhivatal Nagykanizsai Járási Hivatala
-(Nagykanizsa, Eötvös tér 16.)
-
-A felperes képviselője: Metzgerné Pilczer Eva gyámügyi ügyintéző és
-
-dr. Kaszper-Kékesi Zsófia osztályvezető
-
-Az alperes: Szántóné Palánki Edit
-(Keszthely, Bessenyei F. u. 27.)
-Az alperes képviselője: Szántó Zsolt András meghatalmazott hozzátartozó
-
-(Keszthely, Bessenyei F. u. 27.)
-
-A per tárgya: számadási hiány megfizetése
-Az elsőfokú bíróság neve Keszthelyi Járásbíróság
-és a határozata száma: 4.P.20.245/2022//6.
-A fellebbezést benyújtó fél: alperes
-A fellebbezés sorszáma: 7.
-
 # Ítélet:
 
 A másodfokú bíróság az elsőfokú bíróság ítéletét helybenhagyja.
