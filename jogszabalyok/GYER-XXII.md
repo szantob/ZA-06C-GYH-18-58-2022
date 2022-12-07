@@ -1,42 +1,44 @@
 # A gyám és a gondnok számadására, beszámolására vonatkozó általános szabályok
 ## 158. §
-### (1) 
+### 158. § (1) 
 A vagyonkezelésre jogosuIt gyám és gondnok a Ptk. 4:239. § (1) bekezdése és a Ptk. 2:37. § (1) bekezdése szerinti éves számadását, valamint a (3) bekezdés szerinti jelentésben foglalt beszámolóját minden évben annak a hónapnak a 15. napjáig nyújtja be a gyámhivatalhoz, amelyik hónapban a kirendelésről szóló határozatot vele közölték.
-### (2) 
+### 158. § (2) 
 A számadás alapját a leltár és a vagyonkezelést átadó határozat, tartalmát a bevételek és a kiadások képezik. A számadás és a jelentés az (1) bekezdés szerinti benyújtás időpontját megelőző hónap első napjától visszafelé számított 12 hónapra vonatkozik.
-### (3) 
+### 158. § (3) 
 A számadáshoz csatolni kell, vagy számadás hiányában önállóan elő kell terjeszteni a gyámolt vagy a gondnokolt személyes ügyeire (oktatására, nevelésére, tartására, ellátására, egészségi állapotára) vonatkozó jelentésben foglalt beszámolót is.
-### (4) 
+### 158. § (4) 
 A számadásban a bevételeket és a kiadásokat külön, tételesen fel kell sorolni, csatolva - a számadásban feltüntetett tételek sorrendje szerint - a bevételeket és a kiadásokat igazoló iratokat. Ha a bevételt, illetve a kiadást igazoló irat benyújtása akadályba ütközik, a tételek helyességét a gyámhivatal egyéb módon is megállapíthatja.
-### (5) 
+### 158. § (5) 
 Amennyiben a kiskorú gyermek vagy a gondokolt Pp. szerinti gazdálkodó szervezet (a továbbiakban: gazdálkodó szervezet) tagja, részvényese és a gazdálkodó szervezet a számviteli törvény szerinti beszámoló készítésére köteles, a beszámolót a vagyonkezelőnek a beszámoló elkészítését követő 30 napon belül a gyámhivatalhoz be kell nyújtani. Elfogadásáról - eseti számadásként - a gyámhivatal dönt.
-### (6) 
+### 158. § (6) 
 A gyámhivatal hivatalból, valamint a gondnokoltnak, a korlátozottan cselekvőképes kiskorúnak, a gondnokolt közeli hozzátartozójának és a gyermek közeli hozzátartozójának kérésére a gyámot, illetve gondnokot indokolt esetben eseti számadásra kötelezheti.
-### (7) 
+### 158. § (7) 
 A gyámhivatal különösen azt a gyámot, illetve gondnokot kötelezi eseti számadásra,
-#### a) 
+#### 158. § (7) a) 
 akinek engedélyezte, hogy a gyermek, illetve a gondnokolt vagyonát igénybe vegye,
-#### b) 
+#### 158. § (7) b) 
 aki éves számadásra nem köteles,
-#### c) 
+#### 158. § (7) c) 
 aki gazdálkodó szervezet kiskorú vagy cselekvőképességet érintő gondnokság alatt álló tagja, részvényese vagyonkezelését látja el, különösen, ha osztalékelőleg kifizetésére kerül sor.
-### (8) 
+### 158. § (8) 
 Az eseti számadás elkészítésekor, illetve elbírálása során a rendszeres számadás szabályai szerint kell eljárni.
-### (9) 
+### 158. § (9) 
 A vagyonkezelő a számadás alapjául szolgáló bizonylatokat egyszerűsített számadás esetén, illetve az éves számadási kötelezettség alóli mentesség esetén is köteles a Ptk. 2:37. § (5) bekezdése és a Ptk. 4:243. § (2) bekezdése szerinti elévülés időtartama alatt megőrizni. A bizonylat nélkül elszámolható költségekre a bizonylatmegőrzési kötelezettség nem vonatkozik.
 ## 158/A. §
-### (1) 
+### 158/A. (1) 
 A gyámhivatal által kirendelt, vagyonkezelésre jogosult gyám, gondnok a vagyonkezelői joga megszűnését, illetve a hagyatéki eljárás jogerős befejezését követő 15 napon belül a vagyon állagára vonatkozó számadást (végszámadást) terjeszt elő. A végszámadás a korábban felvett leltáron, illetve benyújtott számadásokon alapul.
-### (2) 
+### 158/A. (2) 
 A végszámadás a vagyonkezelés egész időtartamára kiterjed. Ha a vagyon kezelője tevékenységéről rendszeres számadásra köteles, a végszámadás a rendszeres számadásra épül.
-### (3) 
+### 158/A. (3) 
 Ha a gyámság megszűnésével a gyermek szülői felügyelet alá kerül, a végszámadást a gyámhivatalhoz kell benyújtani.
-### (4) 
+### 158/A. (4) 
 Ha a gyám vagy a gondnok személyében változás történik, az nyújtja be a végszámadást a gyámhivatalnak, akinek a gyámi vagy a gondnoki tisztsége megszűnt.
-### (5) 
+### 158/A. (5) 
 Ha a gyámság a nagykorúság elérése vagy a gondnokság a gondnokság megszüntetése miatt szűnik meg, a gyámi, illetve a gondnoki tisztséget ellátó személy annak tartozik végszámadással, aki a vagyon felett rendelkezni jogosult. Ez az irányadó a gyámolt vagy gondokolt halála esetén is. A végszámadás egy - a fiatal felnőtt aláírásával átvett - példányát a gyám az illetékes gyámhivatalnak megküldi.
-### (6) Ha a vagyonos kiskorú önjogúvá válik, vagy a cselekvőképességet érintő gondnokság alá helyezést a bíróság megszünteti, a gyámhivatal haladéktalanul a 143. §-ban foglaltak szerint jár el.
-### (7) A gyámhivatal húsz napon belül dönt a gyám és a gondnok végszámadásának elfogadásáról.
+### 158/A. (6) 
+Ha a vagyonos kiskorú önjogúvá válik, vagy a cselekvőképességet érintő gondnokság alá helyezést a bíróság megszünteti, a gyámhivatal haladéktalanul a 143. §-ban foglaltak szerint jár el.
+### 158/A. (7) 
+A gyámhivatal húsz napon belül dönt a gyám és a gondnok végszámadásának elfogadásáról.
 ## 158/B. § 
 ### (1) A számadás elbírálása során a gyámhivatal
 #### a) a benyújtott iratok alapján megvizsgálja a számadás helyességét, elbírálja a kiadások szükségességét, értékeli a gazdálkodás során tanúsított gondosságot,
