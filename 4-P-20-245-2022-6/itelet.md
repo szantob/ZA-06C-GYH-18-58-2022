@@ -49,7 +49,7 @@ intézményi elhelyezéséig 6-7 hónapon keresztül nem számlaképes személye
 összeg kifizetésének bizonyítására ugyanis a személyes előadása és a házi gondozást nyújtó
 szolgáltatók internetről letöltött árjegyzékének csatolása nem volt alkalmas. Alaptalanul
 hivatkozott arra is, hogy egyszerűsített számadási kötelezettsége mellett nem kellett
-bizonylattal elszámolnia. A Gyer. 159. § (3) bekezdése értelmében ugyanis bizonylat nélkül
+bizonylattal elszámolnia. A [Gyer. 159. § (3)](../jogszabalyok/GYER-XXII.md) bekezdése értelmében ugyanis bizonylat nélkül
 csak az élelmezéssel és háztartással kapcsolatos költségek számolhatók el, a Ptk. 2:37. § (5)
 bekezdése értelmében pedig a kiadások bizonylatait az egyszerűsített számadásra kötelezett
 gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a Gyer. 158/B. §
