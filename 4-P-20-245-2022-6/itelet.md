@@ -1,12 +1,3 @@
- 
-
-142224 ]2. 17]
-5
-
-A
-1
-y
-
 Az eljáró bíróság: Zalaegerszegi Törvényszék mint másodfokú bíróság ——
 
 Az ügy száma: 2.Pf.20.518/2022/6.
@@ -29,18 +20,21 @@ Az elsőfokú bíróság neve Keszthelyi Járásbíróság
 és a határozata száma: 4.P.20.245/2022//6.
 A fellebbezést benyújtó fél: alperes
 A fellebbezés sorszáma: 7.
-Ítélet:
+
+# Ítélet:
 
 A másodfokú bíróság az elsőfokú bíróság ítéletét helybenhagyja.
 Az ítélet ellen fellebbezésnek nincs helye.
 
-Indokolás
+# Indokolás
 
+## (1)
 Az elsőfokú bíróság az ítéletében kötelezte az alperest, hogy 15 napon belül fizessen meg
 3.563.088 Ft-ot Palánki János részére az OTP Bank Nyrt.-nél vezetett 11773494-01352812
 számú gyámhatósági fenntartásos forint folyószámlára. Kötelezte, hogy fizessen meg az
 államnak adóhatósági felhívásra 231.800.,- Ft feljegyzett eljárási illetéket.
 
+## (2)
 Az elsőfokú ítéleti tényállás szerint a Keszthelyi Járásbíróság a 2019. április 9. napján jogerőre
 emelkedett 7.P.20.611/2018/15. számú ítéletével az alperes édesapját, Palánki Jánost
 cselekvőképességet teljesen korlátozó gondnokság alá helyezte. A gyámhatóság a gondnokául
@@ -48,14 +42,7 @@ az alperest rendelte ki, egyúttal a részére egyszerűsített éves számadás
 engedélyezte. Az alpercs 2020. május 12. napján benyújtotta a felpereshez az egyszerűsített
 éves számadását, melynek elbírálása során a felperes hiányt állapított meg, ezért a 2020. június
 15. napján kelt ZA-01C/GYH/677-15/2020. számú végzésében az alperest 2019. június 5. —
-2020. március 31. közötti időszakra eseti számadás benyújtására hívta fel. Az alperes az eseti
-[5]
-
-2
-
-2.Pf.20.518/2022/6. szám
-
-számadási kötelezettségének nemn tett eleget, ezért a felperes a számadást a rendelkezésére álló
+2020. március 31. közötti időszakra eseti számadás benyújtására hívta fel. Az alperes az eseti számadási kötelezettségének nemn tett eleget, ezért a felperes a számadást a rendelkezésére álló
 adatok alapján bírálta el és a zA-01C/GYH/677-21/2020. számú határozatában megállapította,
 hogy 3.863.088,- Ft felhasználásával hitelt érdemlő módon nem számolt el, ezért felszólította
 annak 8 napon belüli megfizetésére. Ezt követően a gyámhatóság külön határozatban 2020.
@@ -65,6 +52,7 @@ rendelt ki. Az alperesnek a ZA-O01C/GYH/677-21/2020. számú gyámhatósági hat
 felülvizsgálata iránti keresetét a Veszprémi Törvényszék a 2021. szeptember 6. napján hozott
 5.K.700.995/2020/22. számú ítéletével elutasította.
 
+## (3)
 E tényállás alapján az elsőfokú bíróság a felperes 3.863.088,- Ft számadási hiány megfizetésére
 irányuló, a Ptk. 2:37. § (1) és (5) bekezdéseire, valamint a Gyer. 158/B. § (3) bekezdésére
 alapított keresetét megalapozottnak találta. Indokai szerint a felperes 21. alszámú
@@ -90,27 +78,27 @@ bekezdése értelmében pedig a kiadások bizonylatait az egyszerűsített szám
 gondnok is köteles az elévülés időtartama alatt megőrizni. Mindezek alapján a Gyer. 158/B. §
 (8) bekezdése szerint az összegszerűségében nem vitatott hiány megfizetésére kötelezte.
 
+## (4)
 Az alperes a fellebbezésében elsődlegesen az elsőfokú ítélet megváltoztatását, a kereset
 elutasítását; másodlagosan az elsőfokú ítélet hatályon kívül helyezését, és az elsőfokú bíróság
 új eljárásra és új határozat hozatalára utasítását kérte.
 
+## (5)
 Egyfelől eljárási okból tartotta jogszabálysértőnek az elsőfokú ítéletet. Érvelése szerint az
 elsőfokú bíróság megsértette a Pp. 342. § (1) bekezdését, a döntése túlterjedt a kereseti
 kérelmen, a felperes ugyanis az eseti számadás nem teljesítése miatt követelt tőle hiányt, de a
 keresetét nem alapította a Ptk. 2: 37. § (3) bekezdésére.
 
+## (6)
 A hiány megfizetésére felhívó 21. alszámú gyámhatósági határozat nem tartalmazta a hiány
 . mibenlétét", arra a felperes képviselője is kitérő választ adott az elsőfokú eljárásban. A kereset
 nem volt a Gyer. 158/B. § (3) bekezdésének megfeleltethető, számadási hiány megfizetése iránt
 a felperes nem indíthatott pert, mert az eseti számadási kötelezettségének nem tett eleget, ez
 pedig a Gyer. 158/C. § (1) bekezdésén alapuló számadásra kötelezés iránti igényt alapozhatta
 volna meg. A jelen pert tehát számadásra kötelezés iránti pernek, mint előzetes eljárásnak
- 
-
-2.Pf.20.518/2022/6. szám
-
 kellett volna megelőzni, így a jelen eljárás megszüntetésének lett volna helye.
 
+## (7)
 Másfelől érdemében sem tartotta megalapozottnak az elsőfokú ítéletet. Álláspontja szerint a
 felperes saját eljárásában nem közölte, hogy hiányt észlelt, hanem maradványt állapított meg.
 Azon határozatában sem szerepelt hiány, amelyben az eseti számadásra felhívta, az eseti
